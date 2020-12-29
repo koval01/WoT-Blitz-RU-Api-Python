@@ -2,6 +2,12 @@
 
 Давайте я Вам расскажу как использовать эту библиотеку.
 
+Подсказка. Для установки используйте команду - 
+```sh
+python -m pip install --upgrade git+https://github.com/koval01/WoT-Blitz-RU-Api-Python
+```
+Рекомендованая версия Python 3.9. Для установки библиотеки у вас должен быть Git.
+
 Для начала импортируйте её в Ваш код - 
 ```python
 from wotblitzpyapi import BlitzModuleApiPy
