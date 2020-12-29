@@ -1,0 +1,8 @@
+README.txt
+setup.py
+wotblitzpyapi/__init__.py
+wotblitzpyapi/core.py
+wotblitzpyapi.egg-info/PKG-INFO
+wotblitzpyapi.egg-info/SOURCES.txt
+wotblitzpyapi.egg-info/dependency_links.txt
+wotblitzpyapi.egg-info/top_level.txt
