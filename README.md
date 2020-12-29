@@ -1,4 +1,4 @@
-# WoT Blitz RU Api for Python
+# WoT Blitz RU Api for Python (Still in development)
 
 Давайте я Вам расскажу как использовать эту библиотеку.
 
